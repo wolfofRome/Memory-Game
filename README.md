@@ -7,8 +7,6 @@ If the second card selected by user matches the first face card, then both the c
 
 The objective of this game is to turn all cards face up as fast as possible 
 
-Please find more details about the game at https://pronay.me
-
 ## MIT License
 
 Copyright (c) 2020 Pronay Peddiraju
